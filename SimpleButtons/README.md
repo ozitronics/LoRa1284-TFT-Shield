@@ -1,5 +1,6 @@
-# LoRa_Keypad
+# SimpleButtons
 
-Simple library to handle the analog buttons on a LoRa1284 TFT shield
+Simple library to handle the analog pushbuttons on an analog pin
 
-Implements debouncing and auto repeat of keys with configurable timing. Extensible to multiple buttons/switches.
+Implements debouncing and auto repeat with configurable timing.
+Allows setting of returned button codes and ADC threshold for each button
