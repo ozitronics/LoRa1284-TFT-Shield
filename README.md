@@ -2,9 +2,9 @@
 
 A display shield for the LoRa1284 module. It includes an 8-pin connector for a colour TFT/IPS display module and 3 pushbuttons.
 
-Colour TFT display modules are commonly available. The only requirement is that it has an 8-pin header ie. includes chip select (CS) pin.
+Colour TFT display modules are commonly available. **The only requirement is that it has an 8-pin header ie. includes chip select (CS) pin.**
 
-**NOTE:** Display sizes of 1.14", 1.44" and 1.54" can be directly mounted on the board. Larger displays will need to be mounted off-board and connected via suitable cable.
+**NOTE:** Display sizes of 1.14", 1.44" and 1.54" can be directly mounted on the board. Larger displays will need to be mounted off-board and connected via a suitable cable.
 
 The display interfaces to the LoRa1284 via the SPI port and pins D21, D22 and D23. Analog pin A7 is used to read the pushbuttons. The display backlight can be controlled using PWM pin D3 (via a solder jumper).
 
