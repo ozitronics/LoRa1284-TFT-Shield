@@ -2,7 +2,7 @@
 
 A display shield for the LoRa1284 module. It includes an 8-pin connector for a colour TFT/IPS display module and 3 pushbuttons.
 
-Colour TFT display modules are commonly available. You can order one (fitted) with the shield or purchase your own elsewhere. ** The only requirement is that it has an 8-pin header ie. includes chip select (CS) pin**. 
+Colour TFT display modules are commonly available. The only requirement is that it has an 8-pin header ie. includes chip select (CS) pin. 
 
 The display interfaces to the LoRa1284 via the SPI port and pins D21, D22 and D23. Analog pin A7 is used to read the pushbuttons. The display backlight can be controlled using PWM pin D3 (via a solder jumper).
 
@@ -20,4 +20,4 @@ There are a number of Arduino libraries available to control the TFT displays. A
 
 ### **Analog keypad library**
 
-There are also a number of libraries available to read the pushbuttons connected to an analog pin. I have developed a simple, easy to use library called "SimpleButtons" (you can read more about it on my Github page).
+There are also a number of libraries available to read the pushbuttons connected to an analog pin. I have developed a simple, easy to use library called "SimpleButtons".
