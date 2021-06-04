@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SimpleButtons   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setButtonCode	    KEYWORD2
+setADCThreshold     KEYWORD2
+setRepeatDelay      KEYWORD2
+setRepeatRateTime   KEYWORD2
+getButton           KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+NO_BUTTON   LITERAL1
