@@ -1,5 +1,5 @@
 /*****************************************************************************
-  SimpleButtons.cpp - Arduino library to handle buttons on LoRa1284 TFT Shield
+  SimpleButtons.cpp - Arduino library to handle buttons on an analog pin
 
   May 28, 2021
   By Frank Crivelli, Ozitronics
