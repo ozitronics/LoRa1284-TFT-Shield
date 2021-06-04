@@ -1,6 +1,6 @@
 #pragma once
 /*****************************************************************************
-  SimpleButtons.h - Arduino library to handle buttons on LoRa1284 TFT Shield
+  SimpleButtons.h - Arduino library to handle buttons on an analog pin
 
   Memory Usage: Flash = depends on board definition and compile settings
                 RAM   = 22 bytes
