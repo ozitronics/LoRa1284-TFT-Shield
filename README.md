@@ -20,4 +20,4 @@ There are a number of Arduino libraries available to control the TFT displays. A
 
 ### **Analog keypad library**
 
-There are also a number of libraries available to read the pushbuttons connected to an analog pin. I have developed a simple, easy to use library called "SimpleButtons".
+There are also a number of libraries available to read the pushbuttons connected to an analog pin. I have developed a simple, easy to use library called "SimpleButtons" (see above).
