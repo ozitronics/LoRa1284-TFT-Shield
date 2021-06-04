@@ -1,4 +1,4 @@
-# LoRa1284-TFT-Shield
+# LoRa1284 TFT Shield
 
 A display shield for the LoRa1284 module. It includes an 8-pin connector for a colour TFT/IPS display module and 3 pushbuttons.
 
